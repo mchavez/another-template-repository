@@ -6,7 +6,6 @@ By participating in this project you agree to abide by its terms.
 ## How to Contribute
 
 - **Submit an issue :** to report a bug, share an idea or open a discussion.
-- **Submit a pull request:** to share a fix or a feature.
 
 ## Best practices
 
